@@ -1,1 +1,2 @@
-text in text
+text in file
+add new line
